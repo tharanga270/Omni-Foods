@@ -1,0 +1,1 @@
+Developed a web site for omni foods(fake client); using ResponsiveGridSystem, HTML5, CSS3, Javascript(typically this is front end site)
